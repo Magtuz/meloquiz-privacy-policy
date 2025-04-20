@@ -1,35 +1,96 @@
-Privacy Policy  
-Effective Date: April 21, 2025
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MeloQuiz Privacy Policy</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 1.6;
+    }
 
-MeloQuiz (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+    h1, h2 {
+      color: #222;
+    }
 
-### Information We Collect
-We do not collect any personally identifiable information from users.
+    h1 {
+      margin-bottom: 1rem;
+      font-size: 2rem;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 0.5rem;
+    }
 
-We use **Firebase Analytics**, a service provided by Google, to collect anonymized usage statistics. This helps us understand how users interact with our app and improve the experience. The information collected may include:
-- App usage events (e.g., button clicks, screen views)
-- Device type and OS version
-- Country (approximate, based on IP)
+    h2 {
+      margin-top: 2rem;
+    }
 
-This data is collected anonymously and cannot be used to identify you.
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
 
-### Third-Party Services
-MeloQuiz uses the following third-party services that may collect information used to identify you:
-- **Firebase Analytics**: https://policies.google.com/privacy
-- **Firebase Crashlytics** (for crash reporting): https://firebase.google.com/support/privacy/
+    a:hover {
+      text-decoration: underline;
+    }
 
-We do not use ads, nor do we share any data with advertisers or data brokers.
+    .footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #777;
+      border-top: 1px solid #eee;
+      padding-top: 1rem;
+    }
+  </style>
+</head>
+<body>
 
-### Data Security
-We take reasonable steps to protect the information collected through the app. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> April 21, 2025</p>
 
-### Children’s Privacy
-MeloQuiz is suitable for users of all ages, including children. We do not knowingly collect any personally identifiable information from users, including children. The app may collect anonymous usage data (such as interactions and device type) via Firebase Analytics, solely for improving the app experience.
+  <p>MeloQuiz (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.</p>
 
+  <h2>Information We Collect</h2>
+  <p>We do not collect any personally identifiable information from users.</p>
+  <p>We use <strong>Firebase Analytics</strong>, a service provided by Google, to collect anonymized usage statistics. This helps us understand how users interact with our app and improve the experience. The information collected may include:</p>
+  <ul>
+    <li>App usage events (e.g., button clicks, screen views)</li>
+    <li>Device type and OS version</li>
+    <li>Country (approximate, based on IP)</li>
+  </ul>
+  <p>This data is collected anonymously and cannot be used to identify you.</p>
 
-### Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+  <h2>Third-Party Services</h2>
+  <p>MeloQuiz uses the following third-party services that may collect information used to identify you:</p>
+  <ul>
+    <li><a href="https://policies.google.com/privacy" target="_blank">Firebase Analytics</a></li>
+    <li><a href="https://firebase.google.com/support/privacy/" target="_blank">Firebase Crashlytics</a></li>
+  </ul>
+  <p>We do not use ads, nor do we share any data with advertisers or data brokers.</p>
 
-### Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at:  
-alcedostudio@gmail.com
+  <h2>Data Security</h2>
+  <p>We take reasonable steps to protect the information collected through the app. However, no method of transmission over the Internet or method of electronic storage is 100% secure.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>MeloQuiz is suitable for users of all ages, including children. We do not knowingly collect any personally identifiable information from users, including children. The app may collect anonymous usage data (such as interactions and device type) via Firebase Analytics, solely for improving the app experience.</p>
+
+  <h2>Changes to This Privacy Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions or concerns about this Privacy Policy, please contact us at:<br>
+  <strong>alcedostudio@gmail.com</strong></p>
+
+  <div class="footer">
+    &copy; 2025 MeloQuiz
+  </div>
+
+</body>
+</html>
