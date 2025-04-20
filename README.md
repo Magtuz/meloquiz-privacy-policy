@@ -1,1 +1,0 @@
-# meloquiz-privacy-policy
