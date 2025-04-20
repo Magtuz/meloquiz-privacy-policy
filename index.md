@@ -1,5 +1,5 @@
 Privacy Policy  
-Effective Date: April 20, 2025
+Effective Date: April 21, 2025
 
 MeloQuiz (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
